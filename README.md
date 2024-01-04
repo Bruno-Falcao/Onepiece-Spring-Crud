@@ -1,12 +1,12 @@
-#Getting Started
+# Getting Started
 
-##Prerequisites
+## Prerequisites
 *Before you begin, ensure you have the following prerequisites installed:*
 
--Docker
--Java
--Kotlin
--MongoDB
--Installation
+- Docker
+- Java
+- Kotlin
+- MongoDB
+- Installation
 
 <Blog-post post link get  blog>
